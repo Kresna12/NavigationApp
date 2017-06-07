@@ -1,6 +1,9 @@
 # NavigationApp
 
+
 #ScreenShoot Aplikasi
+
+
 
 ![screenshot](https://user-images.githubusercontent.com/22161280/26882089-9982bf22-4bc3-11e7-9810-17ae22624e1b.png)
 ![screenshot](https://user-images.githubusercontent.com/22161280/26882093-999cee74-4bc3-11e7-8870-3e314706f8f3.png)
@@ -10,6 +13,10 @@
 ![screenshot](https://user-images.githubusercontent.com/22161280/26882095-99b56238-4bc3-11e7-9e36-e37575de5ad1.png)
 ![screenshot](https://user-images.githubusercontent.com/22161280/26882096-99c649f4-4bc3-11e7-8da6-ccf6865a1901.png)
 ![screenshot](https://user-images.githubusercontent.com/22161280/26882097-99c901b2-4bc3-11e7-89e8-df9edcc44e60.png)
+![screenshot](https://user-images.githubusercontent.com/22161280/26882634-226ef16a-4bc5-11e7-9c66-15ad36e75773.png)
+![screenshot](https://user-images.githubusercontent.com/22161280/26882635-22737f14-4bc5-11e7-989c-c5db7720a998.png)
+
+
 
 #Data Diri
 
